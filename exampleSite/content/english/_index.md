@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Olimpíada Brasileira de Informática (OBI)"
+  content: "A Olimpíada Brasileira de Informática é uma competição nacional que desafia estudantes de todo o país a explorarem seus conhecimentos em programação e resolução de problemas. Participe e descubra oportunidades para aprimorar suas habilidades e competir em um nível nacional."
   image: "/images/banner.png"
   button:
     enable: true
