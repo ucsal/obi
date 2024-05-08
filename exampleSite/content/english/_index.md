@@ -11,8 +11,8 @@ banner:
 
 # Features
 features:
-  - title: "Recursos Disponíveis na OBI"
-    image: "/images/service-1.png"
+  title: "Recursos Disponíveis na OBI"
+  image: "/images/service-1.png"
   content: "A Olimpíada Brasileira de Informática oferece uma plataforma rica em recursos educacionais e desafios que ajudam a aprimorar as habilidades em programação e lógica dos estudantes."
     bulletpoints:
       - "Desafios de programação"
@@ -22,9 +22,9 @@ features:
       label: "Inscreva-se Agora"
       link: "#"
 
-  - title: "Descubra as Principais Características da OBI"
-    image: "/images/service-2.png"
-    content: "A Olimpíada Brasileira de Informática (OBI) é uma competição de programação essencial para estudantes que buscam desafiar e aprimorar suas habilidades computacionais. Conheça alguns dos principais aspectos e benefícios para os participantes:"
+  title: "Descubra as Principais Características da OBI"
+  image: "/images/service-2.png"
+  content: "A Olimpíada Brasileira de Informática (OBI) é uma competição de programação essencial para estudantes que buscam desafiar e aprimorar suas habilidades computacionais. Conheça alguns dos principais aspectos e benefícios para os participantes:"
     bulletpoints:
       - "Enfase em Algoritmos: Desde a lógica de programação básica até algoritmos complexos."
       - "Diversidade de Categorias: Categorias divididas por idade e habilidade, garantindo um campo de jogo nivelado."
@@ -37,9 +37,9 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "Principais Motivos para Participar da OBI"
-    image: "/images/service-3.png"
-    content: "Participar da Olimpíada Brasileira de Informática (OBI) pode ser uma experiência transformadora para estudantes interessados em computação. Aqui estão os principais motivos para se envolver:"
+  title: "Principais Motivos para Participar da OBI"
+  image: "/images/service-3.png"
+  content: "Participar da Olimpíada Brasileira de Informática (OBI) pode ser uma experiência transformadora para estudantes interessados em computação. Aqui estão os principais motivos para se envolver:"
     bulletpoints:
       - "Aprimoramento das habilidades em programação e lógica, essenciais para o futuro acadêmico e profissional."
       - "Ambiente de aprendizado dinâmico que encoraja a inovação e a resolução criativa de problemas."
